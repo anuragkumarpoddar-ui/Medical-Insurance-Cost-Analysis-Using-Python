@@ -32,7 +32,6 @@ The goal is to understand which factors show the strongest relationship with med
 - **BMI:** Shows a weaker positive relationship with insurance charges.
 - **Other Features:** Sex, number of children, and region are also explored to understand differences in charges.
 
-
 ## Project Outcome
 
 This project demonstrates practical skills in Python, data cleaning, exploratory data analysis, statistical interpretation, and data visualisation. The findings can support further analysis and predictive modelling of medical insurance charges.
